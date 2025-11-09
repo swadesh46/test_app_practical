@@ -1,0 +1,70 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===========================
+# Virtual Environments
+# ===========================
+venv/
+practical_env/
+test_env/
+.env/
+
+# ===========================
+# Environment Files
+# ===========================
+.env
+.env.*
+
+# ===========================
+# Logs and Databases
+# ===========================
+*.log
+*.sqlite3
+*.db
+
+# ===========================
+# Unit Test / Coverage
+# ===========================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ===========================
+# IDEs / Editors
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===========================
+# OS Generated Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Build / Packaging
+# ===========================
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# ===========================
+# Miscellaneous
+# ===========================
+__pypackages__/
+.cache/
+*.bak
